@@ -1,0 +1,7 @@
+Directori que conte:
+-Carpeta JocsDeProva 
+-Main.class que es l'executable
+-Carpeta data conte els executables de la capa de persistencia
+-Carpeta domini conte  els executables de la capa de domini
+-Carpeta presentacio  els executables de la capa de presentacio
+-Carpeta recursos conte icones i sons per millorar la experiencia de l'usuari

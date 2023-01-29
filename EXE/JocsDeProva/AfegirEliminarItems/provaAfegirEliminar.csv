@@ -1,0 +1,3 @@
+id,provaString,provaNum,provaCategoric,provaBool
+2,Hola,2,action,true
+3,Adeu,3,drama,false

@@ -1,0 +1,12 @@
+Directori que conte:
+-Carpeta data
+-Carpeta domini
+-Carpeta presentacio
+
+Contenen els codis de tota la execució de l'aplicacio
+
+-Main.java
+
+
+
+

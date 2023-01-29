@@ -1,0 +1,18 @@
+Directori que conte:
+-CjtCategorics.java
+-CjtFiltres.java
+-CjtFiltresUsuaris.java
+-CjtUsuaris.java
+-CjtValoracions.java
+-CjtValoracionsUsuaris.java
+-CollaborativeFiltering.java
+-ContentBasedFiltering.java
+-CtrlDomini.java
+-Dataset.java
+-Filtre.java
+-GestioRecomanacio.java
+-Item.java
+-ProcessatDades.java
+-Usuari.java
+-Valoracio.java
+Arxius font de la capa de domini

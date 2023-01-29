@@ -1,0 +1,4 @@
+Directori que conte:
+-Manual d'usuari -> conte tambe informacio sobre els jocs de proves adjuntats a a la carpeta EXE
+-Relacio classes per membre grup 
+-Javadoc
